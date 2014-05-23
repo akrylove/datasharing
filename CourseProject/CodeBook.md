@@ -11,42 +11,42 @@ subject - ID of a person/subject
 activity_type - type of activity the subject performed
 
 33 columns with -mean() in the column name contain a calculated mean of each measurement’s mean per activity type per subject:
-tBodyAcc-XYZ - 3 columns
-tGravityAcc-XYZ - 3 columns
-tBodyAccJerk-XYZ - 3 columns
-tBodyGyro-XYZ - 3 columns
-tBodyGyroJerk-XYZ - 3 columns
-tBodyAccMag
-tGravityAccMag
-tBodyAccJerkMag
-tBodyGyroMag
-tBodyGyroJerkMag
-fBodyAcc-XYZ - 3 columns
-fBodyAccJerk-XYZ - 3 columns
-fBodyGyro-XYZ - 3 columns
-fBodyAccMag
-fBodyAccJerkMag
-fBodyGyroMag
-fBodyGyroJerkMag
+- tBodyAcc-XYZ - 3 columns
+- tGravityAcc-XYZ - 3 columns
+- tBodyAccJerk-XYZ - 3 columns
+- tBodyGyro-XYZ - 3 columns
+- tBodyGyroJerk-XYZ - 3 columns
+- tBodyAccMag
+- tGravityAccMag
+- tBodyAccJerkMag
+- tBodyGyroMag
+- tBodyGyroJerkMag
+- fBodyAcc-XYZ - 3 columns
+- fBodyAccJerk-XYZ - 3 columns
+- fBodyGyro-XYZ - 3 columns
+- fBodyAccMag
+- fBodyAccJerkMag
+- fBodyGyroMag
+- fBodyGyroJerkMag
 
 33 columns with -std() in the column name contain a calculated mean of each measurement’s standard deviation per activity type per subject:
-tBodyAcc-XYZ - 3 columns
-tGravityAcc-XYZ - 3 columns
-tBodyAccJerk-XYZ - 3 columns
-tBodyGyro-XYZ - 3 columns
-tBodyGyroJerk-XYZ - 3 columns
-tBodyAccMag
-tGravityAccMag
-tBodyAccJerkMag
-tBodyGyroMag
-tBodyGyroJerkMag
-fBodyAcc-XYZ - 3 columns
-fBodyAccJerk-XYZ - 3 columns
-fBodyGyro-XYZ - 3 columns
-fBodyAccMag
-fBodyAccJerkMag
-fBodyGyroMag
-fBodyGyroJerkMag
+- tBodyAcc-XYZ - 3 columns
+- tGravityAcc-XYZ - 3 columns
+- tBodyAccJerk-XYZ - 3 columns
+- tBodyGyro-XYZ - 3 columns
+- tBodyGyroJerk-XYZ - 3 columns
+- tBodyAccMag
+- tGravityAccMag
+- tBodyAccJerkMag
+- tBodyGyroMag
+- tBodyGyroJerkMag
+- fBodyAcc-XYZ - 3 columns
+- fBodyAccJerk-XYZ - 3 columns
+- fBodyGyro-XYZ - 3 columns
+- fBodyAccMag
+- fBodyAccJerkMag
+- fBodyGyroMag
+- fBodyGyroJerkMag
 
 
 Transformations:
