@@ -9,7 +9,7 @@ Data Dictionary:
 Each record contains the following 68 fields:
 subject - ID of a person/subject
 activity_type - type of activity the subject performed
- 
+
 33 columns with -mean() in the column name contain a calculated mean of each measurement’s mean per activity type per subject:
 tBodyAcc-XYZ - 3 columns
 tGravityAcc-XYZ - 3 columns
